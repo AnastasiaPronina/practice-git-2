@@ -1,0 +1,11 @@
+total 9
+-rwxr-xr-x 1 Student 197121  63 мар 30 12:19 11.sh
+-rwxr-xr-x 1 Student 197121  32 мар 30 12:39 12.sh
+-rwxr-xr-x 1 Student 197121  23 мар 30 12:54 13.sh
+-rwxr-xr-x 1 Student 197121  59 мар 30 12:58 14.sh
+-rwxr-xr-x 1 Student 197121  45 мар 30 13:25 21.sh
+-rwxr-xr-x 1 Student 197121  32 мар 30 12:15 hello.sh
+-rw-r--r-- 1 Student 197121 649 мар 30 13:25 ls.txt
+-rw-r--r-- 1 Student 197121  10 мар 30 12:58 TODO.txt
+-rwxr-xr-x 1 Student 197121  45 мар 30 13:24 Новый текстовый документ (2).txt
+-rw-r--r-- 1 Student 197121   0 мар 30 12:18 Новый текстовый документ.txt
